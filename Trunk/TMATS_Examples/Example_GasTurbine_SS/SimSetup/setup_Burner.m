@@ -9,6 +9,6 @@ function MWS = setup_Burner(MWS)
 % *************************************************************************
 
 % Lower Heating Value
-MWS.Burner.LHV = 18400 ; 
+MWS.Burner.LHV = 19000 ; 
 % normalized delta P across the burner.
 MWS.Burner.dP = 0.05 ;
